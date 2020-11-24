@@ -8,4 +8,4 @@ in order to run it you will need to:
 
 3.go to the folder tictactoe-server and type "npm start" in the command-line
 
-4.go to the localhost the command line tells you from several tabs or browsers and srat playing
+4.go to the localhost the command line tells you from several tabs or browsers and start playing
